@@ -8,7 +8,7 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/LazyDeveloperr/MdiskSearchBOTTC",
+    "repository": "https://github.com/pawanjaatpk/MdiskSearchBOTTC",
     "website": "https://telegram.dog/LazyDeveloperr",
     "success_url": "https://t.me/LazyDeveloperr",
     "env": {
@@ -90,7 +90,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
